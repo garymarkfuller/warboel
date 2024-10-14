@@ -13,6 +13,7 @@
 - This planet has an average surface temperature of around 20 degrees celsius.
 - This planet has a larger percentage of water than the other planet and experiences more temperature and weather variation.
 - Denizens of this planet are slender, with longer limbs and darker skin, and have superior daytime vision.
+- Diets on this planet are heavily focused on fruit and vegetables that hydrate the inhabitants.
 
 ## Planet 2
 
@@ -20,3 +21,4 @@
 - Orbits its star in roughly 640 days, with seasons lasting 160 days.
 - This planet has an average surface temperature of around 10 degrees celsius.
 - Denizens of this planet are short and stocky, with lots of hair, and have superior nighttime vision.
+- Diets on this planet are heavily focused on high energy and protein meals, along with dried foods, for maximum energy.
