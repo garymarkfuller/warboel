@@ -11,7 +11,7 @@
 - Is approximately 75,000,000km away from its star.
 - Orbits its star in roughly 160 days, with seasons lasting 40 days.
 - This planet has an average surface temperature of around 20 degrees celsius.
-- This planet has a larger percentage of water than the other planet.
+- This planet has a larger percentage of water than the other planet and experiences more temperature and weather variation.
 
 ## Planet 2
 
