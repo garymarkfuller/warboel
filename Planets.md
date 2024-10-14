@@ -12,9 +12,11 @@
 - Orbits its star in roughly 160 days, with seasons lasting 40 days.
 - This planet has an average surface temperature of around 20 degrees celsius.
 - This planet has a larger percentage of water than the other planet and experiences more temperature and weather variation.
+- Denizens of this planet are slender, with longer limbs and darker skin, and have superior daytime vision.
 
 ## Planet 2
 
 - Is approximately 195,000,000km away from its star.
 - Orbits its star in roughly 640 days, with seasons lasting 160 days.
 - This planet has an average surface temperature of around 10 degrees celsius.
+- Denizens of this planet are short and stocky, with lots of hair, and have superior nighttime vision.
