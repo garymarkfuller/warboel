@@ -4,7 +4,7 @@
 - Each is around 60,000km in circumference (1.5 times that of Earth). 
 - They are around 120,000,000km apart at the closest point of their orbits, which occur once every 640 days. 
 - The planets have a mass of between two and two-and-a-half times that of Earth, rotating every 24 hours and experiencing approximately 1g gravity.
-- The average surface temperature of Earth is 15 degrees celsius. 
+- The average surface temperature of Earth is approximately 15 degrees celsius. 
 
 ## Planet 1
 
