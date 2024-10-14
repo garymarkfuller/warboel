@@ -6,6 +6,6 @@
 
 ## Notes
 
-- Magical travel between the two planets is only possible once every 640 days. 
+- Magical travel between the two planets is only possible once every 640 days when they are in perfect alignment. 
 
 
