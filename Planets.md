@@ -1,7 +1,7 @@
 # Planets
 
 - The setting contains two habitable planets in a resonant orbit around an Orange Dwarf (K-Type) star with a diameter of approximately 1,200,000km. 
-- Each is around 60,000km in circumference (1.5 times that of Earth). 
+- Each is around 60,000km in circumference (1.5 times that of Earth) making their diameter around 19,000km. 
 - They are around 120,000,000km apart at the closest point of their orbits, which occur once every 640 days. 
 - The planets have a mass of between two and two-and-a-half times that of Earth, rotating every 24 hours and experiencing approximately 1g gravity.
 - The average surface temperature of Earth is approximately 15 degrees celsius. 
