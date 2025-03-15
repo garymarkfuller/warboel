@@ -6,7 +6,7 @@
 - The planets have a mass of between two and two-and-a-half times that of Earth, rotating every 24 hours and experiencing approximately 1g gravity.
 - The average surface temperature of Earth is approximately 15 degrees celsius. 
 
-## Planet 1
+## Planet 1 - Shaon
 
 - Is approximately 75,000,000km away from its star.
 - Orbits its star in roughly 160 days, with seasons lasting 40 days.
@@ -14,11 +14,13 @@
 - This planet has a larger percentage of water than the other planet and experiences more temperature and weather variation.
 - Denizens of this planet are slender, with longer limbs and darker skin, and have superior daytime vision.
 - Diets on this planet are heavily focused on fruit and vegetables that hydrate the inhabitants.
+- It has 64 cities of more than 1 million inhabitants.
 
-## Planet 2
+## Planet 2 - Kouan
 
 - Is approximately 195,000,000km away from its star.
 - Orbits its star in roughly 640 days, with seasons lasting 160 days.
 - This planet has an average surface temperature of around 10 degrees celsius.
 - Denizens of this planet are short and stocky, with lots of hair, and have superior nighttime vision.
 - Diets on this planet are heavily focused on high energy and protein meals, along with dried foods, for maximum energy.
+- It has 98 cities of more than 1 million inhabitants.
