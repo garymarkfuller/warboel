@@ -59,6 +59,6 @@
 - Lifespan - 50 to 70 years
 - Height - 4.5ft to 5.5ft
 - Weight - 15st to 17st
-- Features - Grey skin, hairy, large eyes and ears, large tusks protuding from the lower jaw.
+- Features - Light gray skin, hairy, large eyes and ears, large tusks protuding from the lower jaw.
 - Habitat - Kouan, Deserts
 - Alignment - Chaotic Neutral
