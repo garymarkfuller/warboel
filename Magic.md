@@ -1,11 +1,13 @@
-# Magic system ideas and notes
+# Magic system
 
-## Ideas
-
-- Magic exists in the animals and plants of the land. Soaking specific woods in the blood of certain animals can generate artifacts that confer powers when touching the skin. This has resulted in the use of wooden jewellery and armour by warriors to increase their strength, speed, and agility. It also means that wands are commonly used by magic users.  
-
-## Notes
-
-- Magical travel between the two planets is only possible once every 640 days when they are in perfect alignment. 
+- Magic exists in the animals and plants of the land.
+- By soaking specific woods in the blood of certain animals or the fruits of certain plants magic users can generate artifacts that confer powers when touching the skin.
+- Magically enhanced wooden jewellery and armour is used by warriors to increase their strength, speed, and agility.
+- Wands and staffs are commonly used by magic users as the physical manifestations of magic must be channeled via treated wooden objects.
+- Only evil magic users use the blood of sentient beings.
+- Good magic users often use fruits rather than animal blood.
+- Magic users are those who can create wooden magical artifacts and cause external physical manifestations.
+- Anyone can benefit from the enhancements conferred by being in contact with a magical artiact.
+- Magical travel between the two planets is possible once every 640 days when they are in perfect alignment. 
 
 
