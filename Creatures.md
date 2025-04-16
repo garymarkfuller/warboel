@@ -57,6 +57,7 @@
 - Features - Green scales, winged underarms for gliding, rabbit like eyes, bat like ears, small horn on forehead. 
 - Habitat - Shaon, Mountains
 - Alignment - Lawful Neutral
+- https://imagoria.com/en/images/36Z7CQg1nX4tLYs
 
 ## Gvan
 
