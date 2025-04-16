@@ -67,3 +67,4 @@
 - Features - Light gray skin, hairy, large eyes and ears, large tusks protuding from the lower jaw.
 - Habitat - Kouan, Deserts
 - Alignment - Chaotic Neutral
+- https://imagoria.com/en/images/M9W3xfnSmqGEyA5
