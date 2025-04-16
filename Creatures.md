@@ -27,6 +27,7 @@
 - Features - White skin, extremely hairy, large eyes and ears, small tusks protuding from the lower jaw.
 - Habitat - Kouan, Mountains
 - Alignment - Chaotic Good
+- https://ideogram.ai/g/YKHwVikSRvq6MOzO7s1Kkg/0
 
 ## Cvar
 
