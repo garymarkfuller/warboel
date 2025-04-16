@@ -47,6 +47,7 @@
 - Features - Dark gray skin, lizard like eyes, lobeless ears, sharp teeth.  
 - Habitat - Shaon, Deserts
 - Alignment - Lawful Evil
+- https://imagoria.com/en/images/C9odX9t58rPuaLW
 
 ## Wran
 
