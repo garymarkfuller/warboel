@@ -17,6 +17,7 @@
 - Features - Walnut brown skin, slanted eyes, hairless, small pointed ears.
 - Habitat - Shaon, Forests
 - Alignment - Lawful Good
+- https://ideogram.ai/g/XrEBaV_OQoungia08m86sw/0
 
 ## Dvin
 
