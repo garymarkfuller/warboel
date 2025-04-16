@@ -37,6 +37,7 @@
 - Features - Fair skin, cat like eyes, furred, pointed ears, canine tusks. 
 - Habitat - Kouan, Forests
 - Alignment - Chaotic Evil
+- https://imagoria.com/en/images/RUVkXwmshzrDaI8
 
 ## Shar
 
