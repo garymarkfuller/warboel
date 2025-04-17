@@ -29,6 +29,7 @@
 - Habitat - Kouan, Mountains
 - Alignment - Chaotic Good
 - https://ideogram.ai/g/YKHwVikSRvq6MOzO7s1Kkg/0
+- https://g.co/gemini/share/761d597dc16e
 
 ## Cvar
 
