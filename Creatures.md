@@ -19,6 +19,7 @@
 - Alignment - Lawful Good
 - https://ideogram.ai/g/XrEBaV_OQoungia08m86sw/0
 - https://g.co/gemini/share/d3924634d36b
+- https://g.co/gemini/share/16b78e1249ac
 
 ## Dvin
 
