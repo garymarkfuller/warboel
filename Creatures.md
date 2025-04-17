@@ -18,6 +18,7 @@
 - Habitat - Shaon, Forests
 - Alignment - Lawful Good
 - https://ideogram.ai/g/XrEBaV_OQoungia08m86sw/0
+- https://g.co/gemini/share/d3924634d36b
 
 ## Dvin
 
