@@ -43,6 +43,7 @@
 - Alignment - Chaotic Evil
 - https://imagoria.com/en/images/RUVkXwmshzrDaI8
 - https://g.co/gemini/share/b670a538361e
+- https://g.co/gemini/share/76ed00b7c06d
 
 ## Shar
 
