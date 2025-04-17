@@ -62,6 +62,7 @@
 - Habitat - Shaon, Mountains
 - Alignment - Lawful Neutral
 - https://imagoria.com/en/images/36Z7CQg1nX4tLYs
+- https://g.co/gemini/share/b291eabb0b4a
 
 ## Gvan
 
