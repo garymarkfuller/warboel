@@ -51,6 +51,7 @@
 - Habitat - Shaon, Deserts
 - Alignment - Lawful Evil
 - https://imagoria.com/en/images/C9odX9t58rPuaLW
+- https://g.co/gemini/share/73f43d51f764
 
 ## Wran
 
